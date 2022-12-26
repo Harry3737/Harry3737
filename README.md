@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Haider Ali Computer Science Engineer 
-- 👀 I’m interested in Software Development Web Development , Machine Learning and Flutter Development  
-- 🌱 I’m currently learning Bussiness Skills , Full Stack Development , Flutter Development 
+- 👋 Hi, I’m Haider Ali Software Engineer 
+- 👀 I’m interested in Software Development Web Development and Machine Learning
+- 🌱 I’m currently learning Bussiness Skills , Full Stack Development 
 - 💞️ I’m looking to collaborate with Ogranization for Working as developer 
 - 📫 How to reach me ... https://www.linkedin.com/in/haider-ali-64a4121b7
 
